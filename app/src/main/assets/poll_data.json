@@ -1,0 +1,74 @@
+{
+  "polls": [
+    {
+      "poll_id": 1,
+      "poll_question": "What should be the minimum weather tonight?",
+      "poll_img": "",
+      "poll_options": [
+        {
+          "option_id": 101,
+          "option_text": "40",
+          "option_img": "",
+          "option_vote": 0,
+          "option_percent": 0
+        },
+        {
+          "option_id": 102,
+          "option_text": "45",
+          "option_img": "",
+          "option_vote": 0,
+          "option_percent": 0
+        },
+        {
+          "option_id": 103,
+          "option_text": "15",
+          "option_img": "",
+          "option_vote": 0,
+          "option_percent": 0
+        },
+        {
+          "option_id": 104,
+          "option_text": "10",
+          "option_img": "",
+          "option_vote": 0,
+          "option_percent": 0
+        }
+      ]
+    },
+    {
+      "poll_id": 2,
+      "poll_question": "How much is the population of India?",
+      "poll_img": "",
+      "poll_options": [
+        {
+          "option_id": 105,
+          "option_text": "40 Lacs",
+          "option_img": "ic_launcher.png",
+          "option_vote": 0,
+          "option_percent": 0
+        },
+        {
+          "option_id": 106,
+          "option_text": "45 Crores",
+          "option_img": "ic_launcher.png",
+          "option_vote": 0,
+          "option_percent": 0
+        },
+        {
+          "option_id": 107,
+          "option_text": "15 Lacs",
+          "option_img": "ic_launcher.png",
+          "option_vote": 0,
+          "option_percent": 0
+        },
+        {
+          "option_id": 108,
+          "option_text": "10 Crores",
+          "option_img": "ic_launcher.png",
+          "option_vote": 0,
+          "option_percent": 0
+        }
+      ]
+    }
+  ]
+}
