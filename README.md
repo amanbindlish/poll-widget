@@ -13,8 +13,8 @@
 #### App Sample
 <div align="center">
   <p>
-    <img src="https://cl.ly/428948d9eb48"/>	&nbsp;	&nbsp;	&nbsp;<img src="https://cl.ly/132aa3808c01"/>
-    <img src="/media/poll_widget_demo.jpg"/>
+    <img src="/media/poll_widget_text.gif"/>	&nbsp;	&nbsp;	&nbsp;<img src="/media/poll_widget_image.gif"/>
+    <img src="/media/poll_widget_demo.jpg" width="300" height="550"/>
   </p>
 </div>
 
